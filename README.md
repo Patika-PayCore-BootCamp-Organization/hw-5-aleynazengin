@@ -5,7 +5,7 @@
 
 3 - What is Salting and why do we use the process of Salting ?
 
-4 -  What is “intercept-url” pattern ?
+4 - What is “intercept-url” pattern ?
 
 5 - What do you mean by session management in Spring Security ?
 
@@ -21,7 +21,7 @@
 
 11 – What Proxy means and how and where can be used ?
 
-12 – Waht is Wrapper Class and where can be used ?
+12 – What is Wrapper Class and where can be used ?
 
 13 – What is SSL ? What is TLS ? What is the difference ? How can we use them ?
 
